@@ -3,7 +3,7 @@ portfolioitems:
   - title: Projects & Artifacts
     portfolioitem:
       - name: ALdental
-        image: 'https://raw.githubusercontent.com/deimergruesobar/portfolio/main/static/images/portfolio/aldental.jpg'
+        image: 'https://github.com/deimergruesobar/dgruesopfo/raw/main/static/images/portfolio/aldental.jpg'
         link: https://www.aldental.mx
         linktext: 'Visit project website'
         description: 'I did this web development project was developed for a Mexican company dedicated to providing dental services in Tijuana. I used to build this project using Hugo and GitHub pages. It allowed a micro company to show itself to the world digitally, increasing its clients confidence. '
@@ -19,7 +19,7 @@ portfolioitems:
         authors:
           - Jhon Grueso
       - name: Coding Projects -- Personal portfolio
-        image: 'https://raw.githubusercontent.com/deimergruesobar/portfolio/main/static/images/portfolio/code.jpg'
+        image: 'https://github.com/deimergruesobar/dgruesopfo/raw/main/static/images/portfolio/code.jpg'
         link: https://deimergruesobar.github.io/portfolio/
         description: 'This web development project was exciting because building and consolidating the sample artifacts forced me to professionally and personally reviewed the most recent challenges I wanted to share with the world. Among these challenges, I want to highlight the construction of this portfolio, which made me create a project based on Hugo and GitHub pages in record time. I see in these types of projects the personal commitment to do something different from traditional publication methods and a way to show my content creation and publication capabilities.'
         status: 'In progress'
@@ -34,7 +34,7 @@ portfolioitems:
           - Git
           - portfolio
       - name: CWISA Certification
-        image: 'https://raw.githubusercontent.com/deimergruesobar/portfolio/main/static/images/portfolio/IoT.jpg'
+        image: 'https://github.com/deimergruesobar/dgruesopfo/raw/main/static/images/portfolio/IoT.jpg'
         link: https://www.cwnp.com/cwnpVerification.php?cwnp_id=322355&Submit=Verify
         status: 'Finished'
         description: 'The IoT certification project was crucial in my personal and professional life because it involved spending a lot of my time certifying a relatively new technology with little information available that challenged my abilities for self-concentration and personal motivation on a subject unknown to me. , forcing me to build work laboratories on IoT, letting me see the technological challenges of a technology that, in many cases, becomes the focus of cyber attacks'
