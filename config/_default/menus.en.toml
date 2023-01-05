@@ -16,11 +16,11 @@
   identifier = "portfolio"
   url = "/portfolio/"
 
-  # [[main]]
-  # name = "About"
-  # weight = 400
-  # identifier = "about"
-  # url = "/about/"
+  [[main]]
+  name = "Services"
+  weight = 400
+  identifier = "Prof. Services"
+  url = "/Services/"
 
   [[main]]
   name = "Blog"

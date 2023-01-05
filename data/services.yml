@@ -1,0 +1,68 @@
+servicesitems:
+  # portfolio category
+  - title: Professional Services
+    servicesitem:
+      # Describe Professional services
+      - name: Networking LAN/WLAN
+        image: 'https://drscdn.500px.org/photo/80354965/m%3D900/v2?sig=3ff5a30930ec537aa6ccdf6837ff3626cb070b19bbcb7041fdf9c8ee985d41ae'
+        # link: https://www.aldental.mx
+        # linktext: 'Visit project website'
+        description: 'High demands are placed on the data network that must support the expansion of apps, mobile devices, and computing environments. We comprehend sophisticated networks built on simple, dynamic, and adaptable structures with high-performance levels. Count on our assistance for Design, Installation, Optimization, Monitoring, and Support. '
+        tags:
+          - CommScope RUCKUS
+          - Mikrotik
+          - HP
+        #status: 'Finished'
+        #start: '2021'
+        #end: '2021'
+        authors:
+          - Jhon Grueso
+      # Describe Professional services
+      - name: Cybersecurity
+        image: 'https://drscdn.500px.org/photo/1003851233/m%3D900/v2?sig=ccdaa4cde346c7c78cb4be27f92ef7566838c04365f0f61965178ca1fcabd096'
+        # link: https://deimergruesobar.github.io/portfolio/
+        description: 'We concentrate on the components of corporate security that safeguard information, one of the companys most precious assets, as well as the networks and systems used to create, store, consult, process, and transfer information. To protect our clients data and vital infrastructure from assaults, including zero-day attacks, malware, and command and control, among others, we provide next-generation technology solutions.'
+        # status: 'In progress'
+        # start: '2022'
+        authors:
+          - Jhon Grueso
+        tags:
+          - Mikrotik Security
+          - Risk Assessment
+          - Pen-Testing
+          - Firewall
+
+      # Describe Professional services
+      - name: IoT Projects
+        image: 'https://github.com/deimergruesobar/dgruesopfo/raw/main/static/images/portfolio/IoT.jpg'
+        link: https://www.cwnp.com/cwnpVerification.php?cwnp_id=322355&Submit=Verify
+        status: 'Finished'
+        description: 'We offer technical guidance to businesses trying to adopt IoT solutions but encountering a difficult-to-navigate ecosystem of standards, hardware, and services that frequently hinders or halts commercial IoT projects.'
+        tags:
+          - IoT
+          - Design
+          - Integration
+          - RUCKUS IoT
+  # # portfolio category
+  # - title: Research
+  #   portfolioitem:
+  #     - name: Project 1
+  #       image: '/images/portfolio/code.jpg'
+  #       description: 'This project does not have a link attribute'
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
+  #     - name: Project 2
+  #       image: '/images/portfolio/code.jpg'
+  #       link: https://gohugo.io/
+  #       description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
+  #     - name: Project 3
+  #       image: '/images/portfolio/code.jpg'
+  #       link: https://gohugo.io/
+  #       description: 'A description'
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
